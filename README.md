@@ -1,2 +1,2 @@
-# week-1-challenge
+# weekly-challenge-1
 HTML, CSS, and Git: Code Refactor
